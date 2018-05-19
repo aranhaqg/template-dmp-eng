@@ -1,0 +1,29 @@
+[FormatInfo]
+Type=TeXnicCenterProjectInformation
+Version=4
+
+[General]
+def_graphic_ext=
+img_extIsRegExp=false
+img_extensions=.eps .jpg .jpeg .png .pdf .ps .fig .gif
+kileprversion=2
+kileversion=2.1.3
+lastDocument=
+masterDocument=
+name=Project
+pkg_extIsRegExp=false
+pkg_extensions=.cls .sty .bbx .cbx .lbx
+src_extIsRegExp=false
+src_extensions=.tex .ltx .latex .dtx .ins
+
+[ProjectInfo]
+ActiveProfile=LaTeX ⇨ PDF
+MainFile=tese.tex
+ProjectDialect=US
+ProjectLanguage=en
+UseBibTeX=1
+UseMakeIndex=1
+
+[Tools]
+MakeIndex=
+QuickBuild=
